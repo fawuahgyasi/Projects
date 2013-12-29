@@ -1,0 +1,2 @@
+SalesPersonID,FirstName,MiddleName,LastName,EmailAddress,Phone,YearToDateSales
+289,Rachel,B,Valdez,rachel0@adventure-works.com,1 (11) 500 555-0140,2241204.0424
